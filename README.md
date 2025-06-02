@@ -2,47 +2,6 @@
 ✨ Dynamic Full Stack Developer with 10 years of experience, known for driving a 30% increase in sales through the development of a high-performing e-commerce platform. Successfully launched a project management tool that enhanced team collaboration and efficiency. Proficient in JavaScript, React, and Node.js, with a strong focus on optimizing user experience and delivering innovative software solutions.
 </div>
 
-## 🏆 Programming Ratings
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank" title="Visit Codeforces Profile">
-          <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
-               height="40" alt="Codeforces Profile Badge" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank" title="Visit Codewars Profile">
-          <img src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white" 
-               height="40" alt="Codewars Profile Badge" />
-        </a>
-      </td>
-        <td>
-        <a href="https://leetcode.com/u/Iqbolshoh_777/" target="_blank" title="Visit LeetCode Profile">
-          <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" 
-               height="40" alt="LeetCode Profile Badge" />
-        </a>
-      </td>
-      <td>
-        <a href="hackerrank.com/iqbolshoh" target="_blank" title="Visit HackerRank Profile">
-          <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" 
-               height="40" alt="HackerRank Profile Badge" />
-        </a>
-      </td>
-      <td>
-        <a href="https://atcoder.jp/users/Iqbolshoh_777" target="_blank" title="Visit AtCoder Profile">
-          <img src="https://img.shields.io/badge/AtCoder-%230099CC.svg?style=for-the-badge&logo=atcoder&logoColor=white" 
-               height="40" alt="AtCoder Profile Badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🚀 Technologies
 
 ### 💻 Programming Languages
