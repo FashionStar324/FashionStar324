@@ -1,3 +1,4 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <div align="center">
 ✨ Dynamic Full Stack Developer with 10 years of experience, known for driving a 30% increase in sales through the development of a high-performing e-commerce platform. Successfully launched a project management tool that enhanced team collaboration and efficiency. Proficient in JavaScript, React, and Node.js, with a strong focus on optimizing user experience and delivering innovative software solutions.
 </div>
